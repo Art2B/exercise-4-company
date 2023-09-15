@@ -20,7 +20,7 @@ Layout, colors, fonts and other styling is up to you to make sure the UI is as a
 
 ## Web Socket Server
 
-You are provided with a tiny backend server exposing Web Socket endpoint on <http://localhost:5000>.
+You are provided with a tiny backend server exposing Web Socket endpoint on <http://localhost:5001>.
 
 From the `/server` directory in your terminal or IDE run the following command:
 
